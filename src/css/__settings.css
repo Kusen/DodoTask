@@ -1,0 +1,21 @@
+/* Размеры и отступы главной кнопки */
+:root {
+  --colorLinkMain: #2a7fdd;
+  --colorLinkHover: #e97901;
+  --colorLinkVisited: #6f57e6;
+  --colorText: #32312f;
+  --colorBorderBottomHeaderCell: #d2d6d9;
+  --colorGoldCoin: #f5dc38;
+  --colorSilverCoin: #b0c0dd;
+  --colorBronzeCoin: #eda93a;
+
+  --widtnStartingAndLastCellSeparator: 9px;
+  --widthPizzeria: 162px;
+  --widthPlace: 58px;
+  --widthFirstRating: 48px;
+  --widthMediumCellSeparator: 35px;
+  --widthQuality: 88px;
+
+  --colorRatingDowngrade: #a63c31;
+  --colorRatingUpgrade: #446d11;
+}

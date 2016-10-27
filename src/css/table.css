@@ -1,0 +1,153 @@
+a:active,
+a:hover {
+  color: var(--colorLinkHover);
+}
+
+a:visited {
+  color: var(--colorLinkVisited);
+}
+
+.container {
+  min-width: 320px;
+  overflow: scroll;
+}
+
+table {
+  min-width: 320px;
+  border-spacing: 0 2px;
+  color: #32312f;
+  margin: 10px auto;
+  empty-cells: show;
+}
+
+th,
+tr {
+  height: 26px;
+}
+
+tr:nth-child(2) td {
+  border-bottom: 2px solid var(--colorBorderBottomHeaderCell);
+  padding: 8px 0 9px;
+}
+
+tr:nth-child(2) .starting-cell-separator,
+tr:nth-child(2) .medium-cell-separator,
+tr:nth-child(2) .last-cell-separator {
+  border-bottom: none;
+}
+
+.starting-cell-separator,
+.last-cell-separator {
+  width: var(--widtnStartingAndLastCellSeparator);
+}
+
+.medium-cell-separator {
+  width: var(--widthMediumCellSeparator);
+}
+
+.place {
+  width: var(--widthPlace);
+}
+
+.pizzeria {
+  width: var(--widthPizzeria);
+}
+
+.first-rating {
+  width: var(--widthFirstRating);
+}
+
+.coin {
+  width: 8px;
+  height: 8px;
+  float: left;
+  display: inline-block;
+  border-radius: 50%;
+  margin-top: 3px;
+  margin-right: 4px;
+}
+
+.coin__gold {
+  background: var(--colorGoldCoin);
+}
+
+.coin__silver {
+  background: var(--colorSilverCoin);
+}
+
+.coin__bronze {
+  background: var(--colorBronzeCoin);
+}
+
+.rating-change {
+  font-size: 10px;
+}
+
+.rating-change__downgrade {
+  color: var(--colorRatingDowngrade);
+}
+
+.rating-change__upgrade {
+  color: var(--colorRatingUpgrade);
+}
+
+.first-header {
+  text-align: left;
+}
+
+.second-header {
+  text-align: left;
+}
+
+.quality {
+  width: 63px;
+}
+
+.service {
+  width: 48px;
+}
+
+.cleanliness {
+  width: 67px;
+}
+
+.weeks {
+  width: 55px;
+}
+
+.second-rating {
+  width: 76px;
+}
+
+.problems {
+  width: 610px;
+}
+
+tr:nth-child(1n+3) .quality,
+tr:nth-child(1n+3) .service,
+tr:nth-child(1n+3) .cleanliness {
+  color: #a15745;
+}
+
+tr:nth-child(1n+3):hover {
+  background: #f0f1ec;
+}
+
+tr:nth-child(55):hover,
+tr:nth-child(54):hover,
+tr:nth-child(33):hover {
+  background: none;
+}
+
+.press-line-up {
+  vertical-align: top;
+  height: 46px;
+}
+
+.press-line-up p {
+  padding-top: 5px;
+}
+
+.problems a:hover {
+  color: var(--colorLinkMain);
+}

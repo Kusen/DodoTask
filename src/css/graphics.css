@@ -1,0 +1,2747 @@
+.container-for-graphics {
+  display: flex;
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  width: 48px;
+  height: 20px;
+
+  .sticks {
+    width: 4px;
+  }
+}
+
+td[class="weeks"] div div:hover {
+  background: #409300;
+}
+tr:nth-child(3) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(4) {
+  .first-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(5) {
+  .first-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(6) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(7) {
+  .first-stick {
+    height: 16px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(8) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 17px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(9) {
+  .first-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(10) {
+  .first-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(11) {
+  .first-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(12) {
+  .first-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(13) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #a63c31;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+}
+
+tr:nth-child(14) {
+  .first-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(15) {
+  .first-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(16) {
+  .first-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 17px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(17) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(18) {
+  .first-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(19) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(20) {
+  .first-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(21) {
+  .first-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(22) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 17px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(23) {
+  .first-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(24) {
+  .first-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(25) {
+  .first-stick {
+    height: 13px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(26) {
+  .first-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(27) {
+  .first-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 16px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(28) {
+  .first-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 13px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 15px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(29) {
+  .first-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(30) {
+  .first-stick {
+    height: 19px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 16px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(31) {
+  .first-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 17px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(32) {
+  .first-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 11px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 15px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(34) {
+  .first-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .third-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(35) {
+  .first-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .seventh-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .tenth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(36) {
+  .first-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .seventh-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(37) {
+  .first-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .seventh-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    opacity: 0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(38) {
+  .first-stick {
+    height: 17px;
+    background: #c5a29e;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    background: #c5a29e;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 19px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 16px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(39) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 17px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(40) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .tenth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 16px;
+    background: #a63c31;
+  }
+}
+
+tr:nth-child(41) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .ninth-stick {
+    height: 7px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(42) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .fourth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .sixth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 18px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(43) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .seventh-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(44) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .eighth-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 14px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 19px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 20px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(45) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 15px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c8ccd0;
+  }
+
+  .eighth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .ninth-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .tenth-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .eleventh-stick {
+    height: 18px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(46) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 11px;
+    background: #c5a29e;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .sixth-stick {
+    height: 16px;
+    background: #c5a29e;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    background: #c5a29e;
+  }
+
+  .eighth-stick {
+    height: 12px;
+    background: #c5a29e;
+  }
+
+  .ninth-stick {
+    height: 9px;
+    background: #c5a29e;
+  }
+
+  .tenth-stick {
+    height: 12px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 13px;
+    background: #c5a29e;
+  }
+
+  .twelfth-stick {
+    height: 19px;
+    background: #313131;
+  }
+}
+
+tr:nth-child(47) {
+  .first-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .second-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .third-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fourth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .fifth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .sixth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .seventh-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .eighth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .ninth-stick {
+    height: 17px;
+    opacity: 0;
+  }
+
+  .tenth-stick {
+    height: 10px;
+    background: #c5a29e;
+  }
+
+  .eleventh-stick {
+    height: 20px;
+    background: #c8ccd0;
+  }
+
+  .twelfth-stick {
+    height: 9px;
+    background: #a63c31;
+  }
+}
